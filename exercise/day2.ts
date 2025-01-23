@@ -74,6 +74,10 @@ for (let i = facnum; i >= 1; i--) {
 }
 
 console.log(`${facresult} = ${facsum}`);
+console.log(`${facresult} = ${facsum}`);
+console.log(`${facresult} = ${facsum}`);
+console.log(`${facresult} = ${facsum}`);
+console.log(`${facresult} = ${facsum}`);
 
 
 
